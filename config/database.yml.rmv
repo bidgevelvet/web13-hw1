@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: name_of_database
+  pool: 5
+  username: db_user
+  password: db_pass
+  host: db_host
